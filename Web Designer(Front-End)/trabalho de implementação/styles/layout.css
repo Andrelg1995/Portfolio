@@ -1,0 +1,555 @@
+/*
+HTML 5 Template Name: Basic 70
+File: Layout CSS
+Author: OS Templates
+Author URI: https://www.os-templates.com/
+Licence: <a href="https://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+body{margin:0; padding:0; font-size:13px; font-family:Georgia, "Times New Roman", Times, serif; color:#FFFFFF; background-color:#2799fa;}
+
+.clear:after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0;}
+.clear{display:block; width:100%; clear:both;}
+html[xmlns] .clear{display:block;}
+* html .clear{height:1%;}
+
+a{outline:none; text-decoration:none;}
+
+code{font-weight:normal; font-style:normal; font-family:Georgia, "Times New Roman", Times, serif;}
+
+.fl_left{float:left;}
+.fl_right{float:right;}
+
+img{margin:0; padding:0; border:none; line-height:normal; vertical-align:middle;}
+.imgholder, .imgl, .imgr{padding:4px; border:1px solid #D6D6D6; text-align:center;}
+.imgl{float:left; margin:0 15px 15px 0; clear:left;}
+.imgr{float:right; margin:0 0 15px 15px; clear:right;}
+
+/*----------------------------------------------HTML 5 Overrides-------------------------------------*/
+
+address, article, aside, figcaption, figure, footer, header, nav, section{display:block; margin:0; padding:0;}
+
+q{display:block; padding:0 10px 8px 10px; color:#979797; background-color:#ECECEC; font-style:italic; line-height:normal;}
+q:before{content:'“ '; font-size:26px;}
+q:after{content:' „'; font-size:26px; line-height:0;}
+
+/* ----------------------------------------------Wrapper-------------------------------------*/
+
+div.wrapper{display:block; width:100%; margin:0; padding:0; text-align:left;}
+
+.row1, .row1 a{color:#fff; background-color:#2799fa; height: 80px;}
+.row2{color:#979797; background-color:#FFFFFF;}
+.row2 a{color:#FF9900; background-color:#FFFFFF;}
+.row3, .row3 a{color:#FFFFFF; background-color:#2799fa;}
+
+/*----------------------------------------------Generalise-------------------------------------*/
+
+#header, #container, #footer{display:block; margin:0 auto; width:100%;}
+
+nav ul{margin:0; padding:0; list-style:none;}
+
+h1, h2, h3, h4, h5, h6{margin:0; padding:0; font-size:20px; font-weight:normal; font-style:normal; line-height:normal;}
+
+/*----------------------------------------------Header-------------------------------------*/
+
+#header{}
+
+#header #hgroup{float:left; padding:0;}
+#header #hgroup h1, #header #hgroup h2{}
+#header #hgroup h1{font-size:36px;}
+#header #hgroup h2{font-size:13px;}
+#header nav{
+    float: right;
+    padding: 15px 0;
+    margin: 0 auto;
+    width: 40%;
+    height: 60px;
+}
+
+#header nav ul{margin-top:20px;}
+#header nav li{display:inline; margin-right:15px; text-transform:uppercase;}
+#header nav li.last{margin-right:0;}
+
+/*----------------------------------------------Content Area-------------------------------------*/
+
+#container{padding:0;}
+#container section{margin:0 0 30px 0;}
+#container section.last{margin:0;}
+#container .more{text-align:right; text-transform:uppercase; font-size:smaller; font-weight:bold;}
+
+#container section article{}
+#container section article h2{text-transform:uppercase;}
+#container section article address{font-size:10px; font-style:normal;}
+#container section article time{font-size:10px;}
+
+.one_third, .two_third, .three_third{display:block; float:left; margin:0 30px 0 0; text-align:justify;}
+
+.one_third{width:300px;}
+.two_third{width:630px;}
+.three_third{width:960px; float:none; margin-right:0; clear:both;}
+.lastbox{margin-right:0;}
+
+/*----------------------------------------------Footer-------------------------------------*/
+
+#footer{}
+#footer p{margin:0; padding:20px 0;}
+
+#video {
+	
+	width:420px; 
+	height:315px;
+	margin:0 auto;
+	padding:0;
+	
+	
+}
+
+.postagem{
+				width: 30%;
+    height: auto;
+    margin: 46px 55px;
+    padding: 0;
+    text-align: left;
+	
+	
+}
+
+.postagem h1,.postagem p,.postagem a{
+	
+	color:#2799fa;
+
+	
+}
+
+#imagemrodape{
+	
+	width:200px;
+	height:160px;
+	margin:0 auto;
+	padding:0
+	
+	
+	
+}
+#logo {
+	 width: 100px;
+    height: 80px;
+    margin: 0 121px 0;
+    padding: 0;
+
+	
+}
+#sociais{
+	width: 134px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+	
+	
+	
+}
+
+#sociais img{
+	
+	padding:5px;
+	
+	
+	
+	
+	
+}
+#texto{
+	width:134px;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	text-align:center;
+	
+	
+	
+}
+
+#servico{
+	margin: 0 auto;
+    width: 18%;
+    text-align: center;
+	
+}
+#servico H1,#servico H2{
+	padding:10px;
+	color:#2799fa;
+	
+	
+	
+	
+}
+
+#local {
+	
+	width:80%;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	
+	
+	
+	
+}
+.caixa{
+	width: 24.3%;
+    height: 547px;
+    margin: 33px 5px 33px 0;
+    padding: 0px 2px 0 0;
+    background-color: #f1f8fe;
+    float: left;
+	
+	
+	
+	
+	
+	
+}
+.imagem {
+	
+	width: 200px;
+    height: 200px;
+	margin: 13px auto;
+    padding: 0px;
+    border-radius: 50%;
+    background-color: #5ab2fd7d;
+	
+	
+	
+	
+}
+
+.imagem img {
+	
+   width: 152px;
+    height: 147px;
+    padding: 23px;
+}
+	
+	
+	
+	
+	
+.titulo {
+	width:80%;
+	height:auto;
+	margin: 36px auto;
+	padding:0;
+	text-align:center;
+	
+	
+	
+	
+	
+}
+
+.titulo,.caixatexto,.botao {
+	color:#2799fa;
+	text-align:center;
+	
+	
+	
+	
+}
+
+.caixatexto{
+	width: 90%;
+    height: 85px;
+    margin: 67px auto;
+    padding: 0;
+	
+	
+	
+	
+}
+
+.botao{
+	width:33%;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	border-width:0.5px;
+	border-radius:7%;
+	border-color:#2799fa;
+	border-style:solid;
+	
+	
+}
+
+.botao p{
+	margin:6px;
+	padding:0;
+	color: #2799fa;
+	
+	
+	
+	
+}
+.botao a{
+	text-decoration:none;
+	
+	
+	
+	
+	
+}
+#copy{
+	width:100%;
+	height:auto;
+	padding:0;
+	margin:0;
+	background-color:#000;
+	text-align:center;
+	
+	
+	
+}
+#copy p{
+	margin:0;
+	padding:0;
+	color:#fff;
+	
+	
+	
+}
+
+
+ /* terceira pagina Galeria*/ 
+ 
+ 
+ #galeriatxt{
+	 
+	 width:30%;
+	 height:auto;
+	 margin: 0px 5%;
+	 padding:0:
+	 
+	 
+	 
+	 
+	 
+ }
+ 
+ #galeriatxt h1{
+	 
+	 text-align:center;
+	 color:#2799fa;
+	 
+	 
+	 
+	 
+ }
+ 
+ #galeriatxt p{
+	 color:#2799fa;
+	 
+	 
+	 
+ }
+ 
+ 
+ #galeriafoto{
+	width: 50%;
+    height: auto;
+    margin: -356px 15px 0px 0px;
+    padding: 0;
+    float: right;
+
+	 
+	 
+	 
+	 
+	 
+ }
+ 
+ 
+ #galeriafoto img{
+	 width:100%;
+	 height:100%;
+	 margin:0;
+	 padding:0;
+	 
+	 
+	 
+	 
+	 
+	 
+ }
+ 
+ #final{
+	 
+	 width:100%;
+	 height:100px;
+	 
+	 
+	 
+ }
+ 
+ 
+  /* quarta pagina cadastro*/ 
+  
+  
+ #formcaixa{
+	 
+	width: 27%;
+    height: auto;
+    margin: 0 3% 0px;
+    padding: 0;
+	 
+	 
+	 
+	 
+	 
+ }
+ 
+ #nome,#email,#senha{
+	 
+	width: 100%;
+    height: 32px;
+    margin: 0;
+    padding: 0;
+    border-radius: 7px;
+    background-color: #5ab2fd7d;
+    border: 2px solid;
+    border-color: #2799fa;
+	
+	 
+	 
+	 
+	 
+	 
+	 
+ }
+ 
+ #formcaixa p{
+	 
+	 color:#2799fa;
+ 
+ 
+ }
+
+
+#para {
+	
+	width: 76%;
+    height: auto;
+    margin: 14px auto;
+    padding: 0;
+
+	
+}
+
+
+#enviar{
+	
+	width: 100%;
+    height: 40px;
+    background-color: #2799fa;
+    color: #fff;
+    margin: 14px 0 14px 0;
+    border-radius: 3%;
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+/* quinta pagina contato*/ 
+textarea{
+width: 100%;
+    
+    padding: 0;
+    border: 2px solid;
+    border-color: #2799fa;
+	margin: 0px;
+    height: 238px;
+    width: 372px;
+}
+
+
+
+#maps {
+	
+			   width: 53%;
+    height: 541px;
+    float: right;
+    margin: -552px 105px;
+    padding: 0;
+				
+			
+	
+	
+	
+}
+#contato{
+	
+				width: 94%;
+    height: 31px;
+    margin: 0px auto;
+    padding: 34px 0 0 0;
+    color: #2799fa;
+}
+	
+	
+	
+	
+#mosaico2{
+	width: 57%;
+    height: 412px;
+    margin: -402px 0 0 0;
+    padding: 0px 0px 8px 0px;
+    float: right;
+	
+	
+	
+	
+	
+	
+}
+
+#mosaico2 img{
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	
+	
+	
+	
+	
+	
+}
+
+#fant{
+	width: 94%;
+    height: 22px;
+    margin: 0px auto;
+    padding: 42px 0;
+    color: #2799fa;
+	
+	
+	
+	
+}
+	
+	
+	
+
+
+
+
+
+
+
+	
+	

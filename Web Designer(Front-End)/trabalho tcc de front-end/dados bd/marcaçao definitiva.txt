@@ -1,0 +1,23 @@
+
+
+
+marcacao
+
+
+
+
+
+
+
+
+CREATE TABLE  `paciente` (
+    `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+    `nome` VARCHAR( 250 ) NOT NULL ,
+    `cidade` VARCHAR( 250 ) NOT NULL,
+    `email` VARCHAR( 250 ) NOT NULL,
+    `fone` VARCHAR( 250 ) NOT NULL
+
+ )
+
+
+

@@ -1,0 +1,21 @@
+
+
+
+clientes
+
+
+
+
+
+
+
+
+CREATE TABLE  `novidade` (
+    `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+    `email` VARCHAR( 250 ) NOT NULL
+   
+
+ )
+
+
+

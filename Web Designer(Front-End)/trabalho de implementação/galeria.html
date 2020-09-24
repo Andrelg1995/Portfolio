@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Floripa Guide--Galeria</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="styles/layout.css" type="text/css">
+
+
+<style>
+
+/* Full-width input fields */
+input[type=email], input[type=password] {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 26px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+	font-size:16px;
+}
+
+/* Set a style for all buttons */
+button {
+      background-color: #2799fa;
+    color: white;
+    /* padding: 14px 20px; */
+    /* margin: 8px 26px; */
+    border: none;
+    cursor: pointer;
+    /* width: 90%; */
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+
+/* Center the image and position the close button */
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.avatar {
+    width: 200px;
+	height:200px;
+    border-radius: 50%;
+}
+
+/* The Modal (background) */
+.modal {
+	display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+/* Modal Content Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 40%; 
+	padding-bottom: 30px;
+}
+
+/* The Close Button (x) */
+.close {
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+.close:hover,.close:focus {
+    color: red;
+    cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+    animation: zoom 0.6s
+}
+@keyframes zoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+
+.container a{
+text-decoration:none; float:right; margin-right:34px; margin-top:26px; color:#2799fa; height: 26px; background-color: #fff;
+
+
+
+
+
+}
+
+.container p{
+    width: 88%;
+    height: auto;
+    margin: 0 auto;
+    font-size: 17px;
+
+
+
+
+}
+
+</style>
+
+
+
+
+	
+	
+</head>
+<body>
+<div class="wrapper row1">
+  <header id="header" class="clear">
+    <div id="hgroup">
+		<div id="logo">
+      <a href="index.html"><img src="images/logo.png" style="width:100px;height:80px;margin:0;padding:0;"></a>
+		</div>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="servico.html">Serviços</a></li>
+        <li><a href="galeria.html">Galeria</a></li>
+        <li><a href="contato.html">contato</a></li>
+		<li><a href="cadastro.html">criar conta</a></li>
+        <button onclick="document.getElementById('modal-wrapper').style.display='block'">
+Login</button>
+      </ul>
+    </nav>
+	
+	
+	<!--aqui codigo modal-->
+	
+<div id="modal-wrapper" class="modal">
+  
+  <form class="modal-content animate" action="obrigado.html">
+        
+    <div class="imgcontainer" style="color:#2799fa;">
+      <span onclick="document.getElementById('modal-wrapper').style.display='none'" class="close" title="Close PopUp">&times;</span>
+      <img src="1.png" alt="Avatar" class="avatar">
+      <h1 style="text-align:center color:#2799fa;">Login</h1>
+    </div>
+
+    <div class="container" style="color:#2799fa;">
+		<p>E-mail</p>
+      <input type="email" placeholder="E-mail" name="uname">
+	  <p>Senha</p>
+      <input type="password" placeholder="Senha"psw">        
+      <button type="submit" style="background-color: #2799fa;
+    color: white;
+     padding: 14px 20px; 
+     margin: 8px 26px; 
+    border: none;
+    cursor: pointer;
+     width: 90%; 
+    font-size: 15px;
+    text-transform: uppercase;">Login</button>
+      <input type="checkbox" style="margin:26px 30px;">Remember me     
+      <a href="#" >Esqueci minha senha</a>
+    </div>
+    
+  </form>
+  
+</div>
+
+<script>
+// If user clicks anywhere outside of the modal, Modal will close
+
+var modal = document.getElementById('modal-wrapper');
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+
+	
+	
+    <div class="clear"></div>
+  </header>
+</div>
+<!-- content -->
+<div class="wrapper row2">
+  <div id="container">
+    <!-- content body -->
+    <!-- ########################################################################################## -->
+    <!-- ########################################################################################## -->
+    <!-- ########################################################################################## -->
+    <!-- ########################################################################################## -->
+	
+	
+	<div id="final"></div>
+	
+	<div id="galeriatxt">
+	
+	<h1>GALERIA</h1>
+	<p>Florianópolis, a capital do estado de Santa Catarina no sul do Brasil, é maioritariamente constituída pela Ilha de Santa Catarina, com 54 km de comprimento. É famosa pelas suas praias, incluindo estâncias turísticas populares como a Praia dos Ingleses na extremidade norte da ilha. A sua Lagoa da Conceição, uma lagoa de água salgada, é popular para a prática de windsurf e para excursões de barco. A Ponte Pedro Ivo Campos faz a ligação entre a ilha e a zona comercial continental.</p>
+	<p>Florianópolis é um dos destinos mais famosos do Brasil. Sempre repleta de turistas de todo o país – e também de fora, principalmente argentinos – a capital de Santa Catarina é considerada uma das cidades mais belas que temos por aqui, e principalmente por conta de suas praias incríveis e com atrações de todos os tipos.</p>
+
+<p>Tanto para quem deseja relaxar com a família ou em casal e para quem prefere o agito de uma galera jovem que não se cansa das festas, Floripa (como é carinhosamente chamada) jamais deixa a desejar. E sombra e água fresca estão por toda parte, como já era de esperar em uma ilha com 34 praias.</p>
+	
+	
+</div>
+<div style="clear:both"></div>	
+<!--fim texto galeria-->
+
+<div id="galeriafoto">
+
+    <img src="images/mosaico.png" />
+    
+
+    
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+	<div style="clear:both"></div>	
+
+
+</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+</div>
+<!-- footer -->
+<div class="wrapper row3">
+
+  <footer id="footer">
+	<div id="imagemrodape">
+	 <a href="index.html"><img src="images/logo.png" style="width:100%;height:100%;"></a>
+	 </div>
+	<div id="texto">
+	<h1>Redes Sociais</h1>
+	
+	
+	</div>
+	
+	 <div id="sociais">
+	 <a href="#"><img src="images/fb.png"></a>
+	 <a href="#"><img src="images/ins.png"></a>
+	 <a href="#"><img src="images/tw.png"></a>
+	 
+	 
+	 
+	 
+	 </div>
+	 
+   
+  </footer>
+</div>
+<div id="copy"><p>Todos Direitos Reservados-André Garcia</p></div>
+</body>
+</html>

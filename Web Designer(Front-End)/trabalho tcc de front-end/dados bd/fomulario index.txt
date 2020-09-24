@@ -1,0 +1,22 @@
+
+
+
+consulta
+
+
+
+
+
+
+
+
+CREATE TABLE  `novos` (
+    `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+    `nome` VARCHAR( 250 ) NOT NULL ,
+    `email` VARCHAR( 250 ) NOT NULL,
+    `tel` VARCHAR( 250 ) NOT NULL
+    
+ )
+
+
+
