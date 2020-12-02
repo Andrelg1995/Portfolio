@@ -20,12 +20,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==2){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			
 			}
@@ -44,12 +44,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==1){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -68,12 +68,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==1){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -92,12 +92,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==14){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk essa eu tive q pesquisar a respsota "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk essa eu tive q pesquisar a respsota "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -115,12 +115,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==1){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -137,12 +137,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==1){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -160,12 +160,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==4){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -183,12 +183,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==2){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -207,12 +207,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==4){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -230,12 +230,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==4){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -254,12 +254,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==1){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -277,12 +277,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==1){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -300,12 +300,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==4){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -322,12 +322,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==4){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -345,12 +345,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==1){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -368,12 +368,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==3){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
@@ -390,12 +390,12 @@ main(){
 		cout<<"informe uma resposta: ";cin>>res;
 			if(res==2){
 			nota++;
-			cout<<"Resposta correta meu amor mais 1 ponto pra ti "<<endl<<endl;
+			cout<<"Resposta correta meu Amigo(a) mais 1 ponto pra ti "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}else
 			{
 			notan++;
-			cout<<"Errou meu amor Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
+			cout<<"Errou meu Amigo(a) Atenção vem ai a proxima pergunta kkk "<<endl<<endl;
 			cout<<"---------------------------------------------------------------"<<endl<<endl;
 			}
 		}
