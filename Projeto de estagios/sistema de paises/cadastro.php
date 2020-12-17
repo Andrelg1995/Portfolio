@@ -1,38 +1,41 @@
-﻿<?php 
-session_start();
-include_once('conexao.php')
+<?php
+	session_start();
+	include_once("conexao.php");
 ?>
 <html>
 <head>
 <title></title>
 <script type="text/javascript">
 function loginsuccessfully() {
-setTimeout("window.location='paises1.php'", 3000);
+setTimeout("window.location='paises1.php'", 2000);
 	
 }
 </script>
 </head>
 <body>
-<?php 
+<center><?php 
+
+
+
+
 
 $nome =$_POST['nome'];
 $sigla =$_POST['sigla'];
 $gentilico =$_POST['gentilico'];
 
-
-
-
-
 $sql = "INSERT INTO paises(nome, sigla, gentilico) VALUES('$nome', '$sigla', '$gentilico')";
 if (mysqli_query($con, $sql)) {
-      echo "New record created successfully";
+      echo "Gravado";
+	   echo '<script type="text/javascript">',
+     'loginsuccessfully();',
+     '</script>'
+;
 } else {
       echo "Error: " . $sql . "<br>" . mysqli_error($conn);
 }
-mysqli_close($con);
 
 
-?>
 
+?></center>
 </body>
 </html>
