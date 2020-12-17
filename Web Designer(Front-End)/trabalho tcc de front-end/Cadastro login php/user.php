@@ -28,14 +28,13 @@ function loginfailed() {
 <body>
 <?php 
 $email=$_POST['email'];
-$senha=md5$_POST['senha'];
+$senha=$_POST['senha'];
 $sql = mysql_query("SELECT * FROM usoario WHERE email = '$email' and senha = '$senha'") or die(mysql_error());
 $row = mysql_num_rows($sql);
 if($row > 0 ) {
 	session_start();
 	$_SESSION['email']=$_POST['email'];
 	$_SESSION['senha']=$_POST['senha'];
-
 	echo "você foi logado com exito.Aguarde um instante";
 	echo "<script>loginsuccessfully()</script>";
 } else {
